@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49664f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+Correia+Araujo;I'm+18+years+old;I'm+from+Brazil,+SP;I+study+web+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
- ![programador](https://github.com/samupapati/samupapati/blob/main/gif.gif)
+
+ <div align="center">
+     <img align="center" src="https://github.com/samupapati/samupapati/blob/main/gif.gif"/>
+ </div>
 
 ### Skills:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
