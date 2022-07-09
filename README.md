@@ -34,8 +34,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 ### Contact me:
-<a href="[http://google.com](https://www.linkedin.com/in/samuelcorreiaaraujo/)">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;</a>
-<a href="mailto:samuel.cor.araujo@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;</a>
+<a href="https://www.linkedin.com/in/samuelcorreiaaraujo/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;</a>
+<a href="mailto:samuel.cor.araujo@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;</a>
 
  
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samupapati&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
