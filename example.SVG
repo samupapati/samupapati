@@ -3,7 +3,11 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 #img{
-                    background-color: red;
+                    background-image: url(https://camo.githubusercontent.com/34c252084a51eda49bead5fcce5debb8f17918868efd37ca6be9d15402089fcf/68747470733a2f2f696d616765732d6578742d322e646973636f72646170702e6e65742f65787465726e616c2f4b5673307935315a6a347532637962766a63677a42584741396833685037417a4457783151375a516c6b632f68747470732f696d2e657a6769662e636f6d2f746d702f657a6769662d312d303263373764316531662e676966);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: center; 
+                    border-radius: 50%;
                     width: 200px;
                     height: 200px;
                 }
