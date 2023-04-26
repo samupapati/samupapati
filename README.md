@@ -5,7 +5,7 @@
  </div>
 
 ### Skills:
-![Git]([https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=ff6f00&color=000))&nbsp;
+![Git]([https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=ff6f00&color=000)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
